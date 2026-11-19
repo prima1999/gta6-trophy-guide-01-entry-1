@@ -1,392 +1,1149 @@
 {
  "game": "Grand Theft Auto VI",
  "platform": "PlayStation 5",
- "list": "the official 55 trophies, 2026-11-18",
+ "list": "The official 55 trophies, as PlayStation publishes them (names, descriptions and grades as listed by Exophase and PSNProfiles, 18 Nov 2026). Guides are written for this entry in its own words; official names and descriptions are quoted as published.",
+ "counts": {"total": 55, "platinum": 1, "gold": 2, "silver": 6, "bronze": 46, "hidden": 28, "online": 0},
+ "note": "Hidden trophies stay hidden on PlayStation until earned. Missable flags are built from the official descriptions plus community reporting that there is no mission replay: keep a manual save before any trophy flagged missable. No online trophies exist in this list: every trophy is single-player.",
  "trophies": [
   {
    "id": 1,
    "name": "Vice Got a Price!",
    "description": "Congratulations! You're a Leonida Legend.",
    "grade": "platinum",
-   "guide": "Earn the other 54 trophies."
+   "kind": "platinum",
+   "hidden": false,
+   "missable": false,
+   "roadmap": 4,
+   "steps": [
+    "Finish the story: chapters 1 to 4 and the final mission.",
+    "Clear every trophy flagged missable while you play, with a manual save before each one.",
+    "Finish the collectibles, activities and grinds in stages 3 and 4 of the roadmap.",
+    "This trophy pops the moment the 54th other trophy unlocks."
+   ],
+   "guide": "The platinum is the reward for everything else: it unlocks automatically the moment your 54th other trophy pops, so there is no separate task to do for it. Follow the roadmap in order — story first, missables as you go, collectibles and grinds last — and this one takes care of itself. Expect a long haul: community estimates put the full list at roughly 200 hours.",
+   "sources": [
+    {"name": "PlayStation trophy list — official name, description and grade (as listed by Exophase and PSNProfiles, 18 Nov 2026)"},
+    {"name": "PlayStation — Grand Theft Auto VI official game page (PS5, single-player)", "url": "https://www.playstation.com/en-us/games/grand-theft-auto-vi/"}
+   ]
   },
   {
    "id": 2,
    "name": "Just Like Paradise",
    "description": "Complete Gone Fishing.",
    "grade": "bronze",
-   "guide": "Finish the opening mission, Gone Fishing."
+   "kind": "story",
+   "hidden": true,
+   "missable": false,
+   "roadmap": 1,
+   "steps": [
+    "Start a new game and play the opening mission, Gone Fishing.",
+    "Follow the on-screen prompts through the mission's beats.",
+    "Reach the mission's end screen: the trophy pops as it completes."
+   ],
+   "guide": "This is the opening mission, so it is the first story trophy most players earn and it cannot be missed: simply play Gone Fishing from the start of the game through to its end screen. It is hidden on PlayStation until earned because its name gives away the opening mission.",
+   "sources": [
+    {"name": "PlayStation trophy list — official name, description and grade (as listed by Exophase and PSNProfiles, 18 Nov 2026)"},
+    {"name": "Planet GTA 6 trophy guide — story order and chapter notes", "url": "https://www.planetgta6.com/en/gta-6-trophies/"}
+   ]
   },
   {
    "id": 3,
    "name": "Paradise Lost",
    "description": "Complete Chapter 1.",
    "grade": "bronze",
-   "guide": "Finish Chapter 1."
+   "kind": "story",
+   "hidden": true,
+   "missable": false,
+   "roadmap": 1,
+   "steps": [
+    "Play through every mission in Chapter 1 in story order.",
+    "Finish the chapter's closing mission.",
+    "The trophy pops when the chapter-complete screen appears."
+   ],
+   "guide": "Awarded for finishing Chapter 1 in full: play its missions in order until the closing mission ends and the chapter-complete screen shows. Story chapter trophies are unmissable — you earn them by playing through — but they are hidden on PlayStation until earned, so the spoiler setting in this guide keeps them covered until you tick them off.",
+   "sources": [
+    {"name": "PlayStation trophy list — official name, description and grade (as listed by Exophase and PSNProfiles, 18 Nov 2026)"},
+    {"name": "Planet GTA 6 trophy guide — story order and chapter notes", "url": "https://www.planetgta6.com/en/gta-6-trophies/"}
+   ]
   },
   {
    "id": 4,
    "name": "T**s Ass Drug Money",
    "description": "Complete Chapter 2.",
    "grade": "bronze",
-   "guide": "Finish Chapter 2."
+   "kind": "story",
+   "hidden": true,
+   "missable": false,
+   "roadmap": 1,
+   "steps": [
+    "Play through every mission in Chapter 2 in story order.",
+    "Finish the chapter's closing mission.",
+    "The trophy pops when the chapter-complete screen appears."
+   ],
+   "guide": "Awarded for finishing Chapter 2 in full: play its missions in order until the closing mission ends. Chapter 2 is also where most of the open world opens up, so it is a good moment to start the side activities and collectibles in the roadmap rather than leaving them all for after the story.",
+   "sources": [
+    {"name": "PlayStation trophy list — official name, description and grade (as listed by Exophase and PSNProfiles, 18 Nov 2026)"},
+    {"name": "Planet GTA 6 trophy guide — story order and chapter notes", "url": "https://www.planetgta6.com/en/gta-6-trophies/"}
+   ]
   },
   {
    "id": 5,
    "name": "Vice City, Baby!",
    "description": "Complete Chapter 3.",
    "grade": "bronze",
-   "guide": "Finish Chapter 3."
+   "kind": "story",
+   "hidden": true,
+   "missable": false,
+   "roadmap": 1,
+   "steps": [
+    "Play through every mission in Chapter 3 in story order.",
+    "Finish the chapter's closing mission.",
+    "The trophy pops when the chapter-complete screen appears."
+   ],
+   "guide": "Awarded for finishing Chapter 3 in full: play its missions in order until the closing mission ends. By this point the stranger mission strands are well underway, so check the roadmap's stranger trophies before moving on to Chapter 4.",
+   "sources": [
+    {"name": "PlayStation trophy list — official name, description and grade (as listed by Exophase and PSNProfiles, 18 Nov 2026)"},
+    {"name": "Planet GTA 6 trophy guide — story order and chapter notes", "url": "https://www.planetgta6.com/en/gta-6-trophies/"}
+   ]
   },
   {
    "id": 6,
    "name": "Top Of The World, Ma",
    "description": "Complete Chapter 4.",
    "grade": "bronze",
-   "guide": "Finish Chapter 4."
+   "kind": "story",
+   "hidden": true,
+   "missable": false,
+   "roadmap": 1,
+   "steps": [
+    "Play through every mission in Chapter 4 in story order.",
+    "Finish the chapter's closing mission.",
+    "The trophy pops when the chapter-complete screen appears."
+   ],
+   "guide": "Awarded for finishing Chapter 4, the last full chapter: play its missions in order until the closing mission ends. Before you start the final mission after this chapter, make the manual save the roadmap asks for — the ending trophies are the ones flagged missable.",
+   "sources": [
+    {"name": "PlayStation trophy list — official name, description and grade (as listed by Exophase and PSNProfiles, 18 Nov 2026)"},
+    {"name": "Planet GTA 6 trophy guide — story order and chapter notes", "url": "https://www.planetgta6.com/en/gta-6-trophies/"}
+   ]
   },
   {
    "id": 7,
    "name": "You Gotta Know When to Get Off",
    "description": "Complete the final mission.",
    "grade": "gold",
-   "guide": "Finish the final mission (gold)."
+   "kind": "story",
+   "hidden": true,
+   "missable": true,
+   "roadmap": 1,
+   "steps": [
+    "Make a manual save at a separate slot before starting the final mission.",
+    "Play the final mission through to its end screen.",
+    "If the ending branches, reload your manual save to see the other outcome."
+   ],
+   "guide": "One of only two gold trophies: finish the final mission. It is flagged missable because it is a single story moment — community reporting says there is no mission replay, so a manual save before the final mission is the safety net if the ending branches or a choice locks you out of a related trophy. Do it on your story playthrough; nothing here needs a second full run.",
+   "sources": [
+    {"name": "PlayStation trophy list — official name, description and grade (as listed by Exophase and PSNProfiles, 18 Nov 2026)"},
+    {"name": "Output Lag GTA 6 trophy list — no mission replay, manual-save advice", "url": "https://outputlag.com/guides/gta-6-trophy-list/"}
+   ]
   },
   {
    "id": 8,
    "name": "Trust",
    "description": "Complete Breakfast Run.",
    "grade": "bronze",
-   "guide": "Finish the mission Breakfast Run."
+   "kind": "story",
+   "hidden": true,
+   "missable": false,
+   "roadmap": 1,
+   "steps": [
+    "Reach the Breakfast Run mission in the story.",
+    "Play it through to its end screen.",
+    "The trophy pops on completion."
+   ],
+   "guide": "A story-mission trophy: complete the mission Breakfast Run when it appears in the story. Mission trophies like this one are unmissable — they pop for finishing the mission — and hidden until earned because the mission name itself is a spoiler.",
+   "sources": [
+    {"name": "PlayStation trophy list — official name, description and grade (as listed by Exophase and PSNProfiles, 18 Nov 2026)"},
+    {"name": "Planet GTA 6 trophy guide — story order and chapter notes", "url": "https://www.planetgta6.com/en/gta-6-trophies/"}
+   ]
   },
   {
    "id": 9,
    "name": "Break the Bank",
    "description": "Complete The Cartel Heist.",
    "grade": "bronze",
-   "guide": "Finish the mission The Cartel Heist."
+   "kind": "story",
+   "hidden": true,
+   "missable": false,
+   "roadmap": 1,
+   "steps": [
+    "Reach The Cartel Heist in the story.",
+    "Play it through to its end screen.",
+    "The trophy pops on completion."
+   ],
+   "guide": "A story-mission trophy: complete The Cartel Heist when it appears in the story. Heist missions are the big set-pieces, so expect a longer mission with several beats; finishing it is all the trophy asks, with no extra objective attached.",
+   "sources": [
+    {"name": "PlayStation trophy list — official name, description and grade (as listed by Exophase and PSNProfiles, 18 Nov 2026)"},
+    {"name": "Planet GTA 6 trophy guide — story order and chapter notes", "url": "https://www.planetgta6.com/en/gta-6-trophies/"}
+   ]
   },
   {
    "id": 10,
    "name": "Family Matters",
    "description": "Complete Child's Play.",
    "grade": "bronze",
-   "guide": "Finish the mission Child's Play."
-  },
+   "kind": "story",
+   "hidden": true,
+   "missable": false,
+   "roadmap": 1,
+   "steps": [
+    "Reach the Child's Play mission in the story.",
+    "Play it through to its end screen.",
+    "The trophy pops on completion."
+   ],
+   "guide": "A story-mission trophy: complete the mission Child's Play when it appears in the story. Like the other mission trophies it is unmissable and pops on completion, so just keep playing the story in order.",
+   "sources": [
+    {"name": "PlayStation trophy list — official name, description and grade (as listed by Exophase and PSNProfiles, 18 Nov 2026)"},
+    {"name": "Planet GTA 6 trophy guide — story order and chapter notes", "url": "https://www.planetgta6.com/en/gta-6-trophies/"}
+   ]
+  }
+,
   {
    "id": 11,
    "name": "DWNFALL",
    "description": "Complete Headliners.",
    "grade": "bronze",
-   "guide": "Finish the mission Headliners."
+   "kind": "story",
+   "hidden": true,
+   "missable": false,
+   "roadmap": 1,
+   "steps": [
+    "Reach the Headliners mission in the story.",
+    "Play it through to its end screen.",
+    "The trophy pops on completion."
+   ],
+   "guide": "A story-mission trophy: complete the mission Headliners when it appears in the story. It pops on completion with nothing extra to do, so it is simply a marker of story progress.",
+   "sources": [
+    {"name": "PlayStation trophy list — official name, description and grade (as listed by Exophase and PSNProfiles, 18 Nov 2026)"},
+    {"name": "Planet GTA 6 trophy guide — story order and chapter notes", "url": "https://www.planetgta6.com/en/gta-6-trophies/"}
+   ]
   },
   {
    "id": 12,
    "name": "Hi-Jacked",
    "description": "Complete VCIA Takedown.",
    "grade": "bronze",
-   "guide": "Finish the mission VCIA Takedown."
+   "kind": "story",
+   "hidden": true,
+   "missable": false,
+   "roadmap": 1,
+   "steps": [
+    "Reach the VCIA Takedown mission in the story.",
+    "Play it through to its end screen.",
+    "The trophy pops on completion."
+   ],
+   "guide": "A story-mission trophy: complete VCIA Takedown when it appears in the story. The name points at the airport, so expect the mission to play out around Vice City International Airport; finishing it is all the trophy asks.",
+   "sources": [
+    {"name": "PlayStation trophy list — official name, description and grade (as listed by Exophase and PSNProfiles, 18 Nov 2026)"},
+    {"name": "Planet GTA 6 trophy guide — story order and chapter notes", "url": "https://www.planetgta6.com/en/gta-6-trophies/"}
+   ]
   },
   {
    "id": 13,
    "name": "Snow Storm",
    "description": "Complete Operation Savage Glory.",
    "grade": "bronze",
-   "guide": "Finish the mission Operation Savage Glory."
+   "kind": "story",
+   "hidden": true,
+   "missable": false,
+   "roadmap": 1,
+   "steps": [
+    "Reach Operation Savage Glory in the story.",
+    "Play it through to its end screen.",
+    "The trophy pops on completion."
+   ],
+   "guide": "A story-mission trophy: complete Operation Savage Glory when it appears in the story. It is the last of the named mission trophies, so by the time it pops you are deep into the late story — finish the chapter and the final mission from here.",
+   "sources": [
+    {"name": "PlayStation trophy list — official name, description and grade (as listed by Exophase and PSNProfiles, 18 Nov 2026)"},
+    {"name": "Planet GTA 6 trophy guide — story order and chapter notes", "url": "https://www.planetgta6.com/en/gta-6-trophies/"}
+   ]
   },
   {
    "id": 14,
    "name": "A Long Road",
    "description": "Attain 100% Completion.",
    "grade": "gold",
-   "guide": "Reach 100% completion (gold)."
+   "kind": "story",
+   "hidden": false,
+   "missable": false,
+   "roadmap": 4,
+   "steps": [
+    "Finish the story and every stranger mission strand.",
+    "Complete the collectibles: cards, WAiNK spots, meditation spots, vehicles, exploration.",
+    "Finish the activities: stunts, shooting range golds, races, challenges.",
+    "Open the in-game stats page and clear the last checklist items until it reads 100%."
+   ],
+   "guide": "The second gold trophy and the real endgame: reach 100% completion on the in-game checklist. It is not the same as the platinum — 100% is one checklist inside the game, while the platinum also needs the one-off feats and grinds — but the two overlap heavily, so the roadmap's stages 3 and 4 are built to feed this trophy. Track it in the game's own stats page, not just here, and leave it for last.",
+   "sources": [
+    {"name": "PlayStation trophy list — official name, description and grade (as listed by Exophase and PSNProfiles, 18 Nov 2026)"},
+    {"name": "GTA Vice City Hub achievements guide — full 55 list and unlock notes", "url": "https://www.gtavicecityhub.com/achievements"}
+   ]
   },
   {
    "id": 15,
    "name": "Cunning Stunts",
    "description": "Complete 250 Stunts.",
    "grade": "silver",
-   "guide": "Pull off 250 stunts (silver)."
+   "kind": "activities",
+   "hidden": false,
+   "missable": false,
+   "roadmap": 4,
+   "steps": [
+    "Find stunt jumps, ramps and airtime spots around Leonida.",
+    "Land jumps cleanly to bank each stunt toward the 250 total.",
+    "Check the in-game stats counter between sessions to track progress.",
+    "Keep a fast bike handy: stunts come quicker on two wheels."
+   ],
+   "guide": "A pure grind trophy: pull off 250 stunts — jumps, airtime and clean landings — anywhere in Leonida. The count is cumulative across the whole playthrough, so every jump you land from the opening hours counts. It pairs naturally with the driving you already do for races and exploration, so let it build up and only farm the remainder at the end.",
+   "sources": [
+    {"name": "PlayStation trophy list — official name, description and grade (as listed by Exophase and PSNProfiles, 18 Nov 2026)"},
+    {"name": "Output Lag GTA 6 trophy list — counts and method notes", "url": "https://outputlag.com/guides/gta-6-trophy-list/"}
+   ]
   },
   {
    "id": 16,
    "name": "Master of None",
    "description": "Try each type of activity once.",
    "grade": "bronze",
-   "guide": "Try all 9 activity types once."
+   "kind": "activities",
+   "hidden": false,
+   "missable": false,
+   "roadmap": 4,
+   "steps": [
+    "Open the activities list in the game and note the 9 activity types.",
+    "Try one of each: a race, a shooting range, fishing, an arcade game, and the rest.",
+    "The trophy pops once the last untried type is sampled."
+   ],
+   "guide": "A sampler trophy: try each of the 9 activity types once. You do not need to win or finish anything — one attempt at each type is enough. It is the natural first step into the activities, and a good way to discover which ones you want to grind for the other activity trophies.",
+   "sources": [
+    {"name": "PlayStation trophy list — official name, description and grade (as listed by Exophase and PSNProfiles, 18 Nov 2026)"},
+    {"name": "Output Lag GTA 6 trophy list — counts and method notes", "url": "https://outputlag.com/guides/gta-6-trophy-list/"}
+   ]
   },
   {
    "id": 17,
    "name": "The Shootist",
    "description": "Earn a gold medal in all Shooting Range challenges.",
    "grade": "silver",
-   "guide": "Gold all 42 Shooting Range challenges (silver)."
+   "kind": "activities",
+   "hidden": false,
+   "missable": false,
+   "roadmap": 4,
+   "steps": [
+    "Visit a shooting range and open its challenge list (42 challenges).",
+    "Learn each challenge's gold score threshold before spending ammo.",
+    "Work through them weapon by weapon, replaying any that fall short of gold.",
+    "The trophy pops when the last challenge shows a gold medal."
+   ],
+   "guide": "The hardest skill trophy on the list: earn a gold medal in all 42 Shooting Range challenges. Each challenge has its own gold threshold, so treat it as a practice routine — learn the targets and timing per weapon, then run them in batches. It is a silver for a reason; leave it until the story is done and you can focus on it without distractions.",
+   "sources": [
+    {"name": "PlayStation trophy list — official name, description and grade (as listed by Exophase and PSNProfiles, 18 Nov 2026)"},
+    {"name": "Output Lag GTA 6 trophy list — counts and method notes", "url": "https://outputlag.com/guides/gta-6-trophy-list/"}
+   ]
   },
   {
    "id": 18,
    "name": "Top Fun",
    "description": "Win a Top Fun Drone Race at every location.",
    "grade": "bronze",
-   "guide": "Win a Top Fun drone race at all 14 locations."
+   "kind": "activities",
+   "hidden": false,
+   "missable": false,
+   "roadmap": 4,
+   "steps": [
+    "Find the 14 Top Fun drone race locations across Leonida.",
+    "Win a race at each location — one win per location counts.",
+    "Re-run any location you lose until its win is banked.",
+    "The trophy pops when the 14th location is won."
+   ],
+   "guide": "Win a Top Fun drone race at all 14 locations. Drone racing is its own skill — learn the gates and the racing line at each spot rather than rushing — but you only need one win per location, not a clean sweep of every race. Work through the locations in a loop and re-run the ones you lose.",
+   "sources": [
+    {"name": "PlayStation trophy list — official name, description and grade (as listed by Exophase and PSNProfiles, 18 Nov 2026)"},
+    {"name": "Output Lag GTA 6 trophy list — counts and method notes", "url": "https://outputlag.com/guides/gta-6-trophy-list/"}
+   ]
   },
   {
    "id": 19,
    "name": "Earn Cash, Not Kudos",
    "description": "Win 20 different races.",
    "grade": "bronze",
-   "guide": "Win 20 different races."
+   "kind": "activities",
+   "hidden": false,
+   "missable": false,
+   "roadmap": 4,
+   "steps": [
+    "Open the race list and pick 20 different races you have not won.",
+    "Win each one once — repeats of the same race do not add to the count.",
+    "Mix vehicle classes so a weak class does not stall you.",
+    "The trophy pops on your 20th distinct race win."
+   ],
+   "guide": "Win 20 different races: the key word is different — winning the same race twenty times does not count. Race variety is the whole task, so work down the race list and tick each new win off here. It overlaps with the drone races and the stunt grind, so fold it into your general driving cleanup.",
+   "sources": [
+    {"name": "PlayStation trophy list — official name, description and grade (as listed by Exophase and PSNProfiles, 18 Nov 2026)"},
+    {"name": "Output Lag GTA 6 trophy list — counts and method notes", "url": "https://outputlag.com/guides/gta-6-trophy-list/"}
+   ]
   },
   {
    "id": 20,
    "name": "Baited My Tackle",
    "description": "Beat Cal in a fishing challenge.",
    "grade": "bronze",
-   "guide": "Beat Cal in a fishing challenge."
-  },
+   "kind": "activities",
+   "hidden": false,
+   "missable": false,
+   "roadmap": 4,
+   "steps": [
+    "Find Cal and take his fishing challenge.",
+    "Learn the fishing timing: hook, reel steadily, and ease off when the line strains.",
+    "Outscore Cal in the challenge to win it.",
+    "The trophy pops on the win."
+   ],
+   "guide": "Beat Cal in a fishing challenge — a head-to-head fishing contest, not just catching a fish. Fishing here is timing-based: reel steadily and ease off when the line strains, or it snaps. Challenge Cal when you are comfortable with the rhythm, and retry as often as needed; challenges can be re-attempted.",
+   "sources": [
+    {"name": "PlayStation trophy list — official name, description and grade (as listed by Exophase and PSNProfiles, 18 Nov 2026)"},
+    {"name": "GTA Vice City Hub achievements guide — full 55 list and unlock notes", "url": "https://www.gtavicecityhub.com/achievements"}
+   ]
+  }
+,
   {
    "id": 21,
    "name": "Stick Fiddler",
    "description": "Complete an arcade game.",
    "grade": "bronze",
-   "guide": "Finish one arcade game."
+   "kind": "activities",
+   "hidden": false,
+   "missable": false,
+   "roadmap": 4,
+   "steps": [
+    "Find an arcade machine in the world.",
+    "Pick a game and play it through to its end.",
+    "The trophy pops when the arcade game completes."
+   ],
+   "guide": "Complete one arcade game — any machine, any game, played through to its end. It is a quick palate-cleanser between the bigger grinds, and it also counts toward the activity sampler, so do it early while you are trying each activity type once.",
+   "sources": [
+    {"name": "PlayStation trophy list — official name, description and grade (as listed by Exophase and PSNProfiles, 18 Nov 2026)"},
+    {"name": "GTA Vice City Hub achievements guide — full 55 list and unlock notes", "url": "https://www.gtavicecityhub.com/achievements"}
+   ]
   },
   {
    "id": 22,
    "name": "Road to Rehabilitation",
    "description": "Complete the final mission for Andy.",
    "grade": "bronze",
-   "guide": "Finish Andy's last mission."
+   "kind": "story",
+   "hidden": true,
+   "missable": false,
+   "roadmap": 1,
+   "steps": [
+    "Meet Andy and take his first mission when his strand opens.",
+    "Play each of Andy's missions in order as they unlock.",
+    "Finish his final mission: the trophy pops on completion."
+   ],
+   "guide": "A stranger-strand trophy: finish Andy's whole mission strand, from his first mission to his final one. Stranger strands unlock gradually as the story progresses, so check back with Andy between story chapters and keep his missions moving — the strand only ends when his final mission is done.",
+   "sources": [
+    {"name": "PlayStation trophy list — official name, description and grade (as listed by Exophase and PSNProfiles, 18 Nov 2026)"},
+    {"name": "Planet GTA 6 trophy guide — story order and chapter notes", "url": "https://www.planetgta6.com/en/gta-6-trophies/"}
+   ]
   },
   {
    "id": 23,
    "name": "This Was No Boat Accident",
    "description": "Complete the final mission for Kenton.",
    "grade": "bronze",
-   "guide": "Finish Kenton's last mission."
+   "kind": "story",
+   "hidden": true,
+   "missable": false,
+   "roadmap": 1,
+   "steps": [
+    "Meet Kenton and take his first mission when his strand opens.",
+    "Play each of Kenton's missions in order as they unlock.",
+    "Finish his final mission: the trophy pops on completion."
+   ],
+   "guide": "A stranger-strand trophy: finish Kenton's whole mission strand, from his first mission to his final one. Kenton's strand is water-flavoured — the name is the hint — so expect boats to feature; play his missions in order as they unlock between story chapters.",
+   "sources": [
+    {"name": "PlayStation trophy list — official name, description and grade (as listed by Exophase and PSNProfiles, 18 Nov 2026)"},
+    {"name": "Planet GTA 6 trophy guide — story order and chapter notes", "url": "https://www.planetgta6.com/en/gta-6-trophies/"}
+   ]
   },
   {
    "id": 24,
    "name": "The Lone Rider",
    "description": "Complete the final mission for Billy.",
    "grade": "bronze",
-   "guide": "Finish Billy's last mission."
+   "kind": "story",
+   "hidden": true,
+   "missable": false,
+   "roadmap": 1,
+   "steps": [
+    "Meet Billy and take his first mission when his strand opens.",
+    "Play each of Billy's missions in order as they unlock.",
+    "Finish his final mission: the trophy pops on completion."
+   ],
+   "guide": "A stranger-strand trophy: finish Billy's whole mission strand, from his first mission to his final one. Billy's strand is the rider's strand, so expect bikes; play his missions in order as they unlock between story chapters.",
+   "sources": [
+    {"name": "PlayStation trophy list — official name, description and grade (as listed by Exophase and PSNProfiles, 18 Nov 2026)"},
+    {"name": "Planet GTA 6 trophy guide — story order and chapter notes", "url": "https://www.planetgta6.com/en/gta-6-trophies/"}
+   ]
   },
   {
    "id": 25,
    "name": "Strangers & Freaks",
    "description": "Complete 8 mission strands for strangers across the state of Leonida.",
    "grade": "silver",
-   "guide": "Finish 8 stranger strands (silver)."
+   "kind": "activities",
+   "hidden": false,
+   "missable": false,
+   "roadmap": 4,
+   "steps": [
+    "Find stranger missions across Leonida — Andy, Kenton, Billy, Randy and Tyrone are five of them.",
+    "Play each stranger's strand through to its final mission.",
+    "Count completed strands here: the trophy pops on the 8th.",
+    "Strands unlock gradually, so revisit stranger spots between story chapters."
+   ],
+   "guide": "Complete 8 stranger mission strands across Leonida — the umbrella trophy over the individual stranger finals. Five of the strangers are named in this list (Andy, Kenton, Billy, Randy, Tyrone), so find the other three as you explore, and play each strand to its final mission. It is a silver because it is a long tail of side content, not because any single strand is hard.",
+   "sources": [
+    {"name": "PlayStation trophy list — official name, description and grade (as listed by Exophase and PSNProfiles, 18 Nov 2026)"},
+    {"name": "Output Lag GTA 6 trophy list — counts and method notes", "url": "https://outputlag.com/guides/gta-6-trophy-list/"}
+   ]
   },
   {
    "id": 26,
    "name": "Supply & Demand",
    "description": "Complete the final mission for Randy.",
    "grade": "bronze",
-   "guide": "Finish Randy's last mission."
+   "kind": "story",
+   "hidden": true,
+   "missable": false,
+   "roadmap": 1,
+   "steps": [
+    "Meet Randy and take his first mission when his strand opens.",
+    "Play each of Randy's missions in order as they unlock.",
+    "Finish his final mission: the trophy pops on completion."
+   ],
+   "guide": "A stranger-strand trophy: finish Randy's whole mission strand, from his first mission to his final one. Randy's strand is about supply runs, so expect fetch-and-deliver missions; play them in order as they unlock between story chapters.",
+   "sources": [
+    {"name": "PlayStation trophy list — official name, description and grade (as listed by Exophase and PSNProfiles, 18 Nov 2026)"},
+    {"name": "Planet GTA 6 trophy guide — story order and chapter notes", "url": "https://www.planetgta6.com/en/gta-6-trophies/"}
+   ]
   },
   {
    "id": 27,
    "name": "Spin On This!",
    "description": "Complete the final mission for Tyrone.",
    "grade": "bronze",
-   "guide": "Finish Tyrone's last mission."
+   "kind": "story",
+   "hidden": true,
+   "missable": false,
+   "roadmap": 1,
+   "steps": [
+    "Meet Tyrone and take his first mission when his strand opens.",
+    "Play each of Tyrone's missions in order as they unlock.",
+    "Finish his final mission: the trophy pops on completion."
+   ],
+   "guide": "A stranger-strand trophy: finish Tyrone's whole mission strand, from his first mission to his final one. Play his missions in order as they unlock between story chapters, and tick this off alongside the other stranger finals on the way to the 8-strand silver.",
+   "sources": [
+    {"name": "PlayStation trophy list — official name, description and grade (as listed by Exophase and PSNProfiles, 18 Nov 2026)"},
+    {"name": "Planet GTA 6 trophy guide — story order and chapter notes", "url": "https://www.planetgta6.com/en/gta-6-trophies/"}
+   ]
   },
   {
    "id": 28,
    "name": "Positive Mental Attitude",
    "description": "Meditate at every spot across Leonida.",
    "grade": "bronze",
-   "guide": "Meditate at all 18 spots."
+   "kind": "collectibles",
+   "hidden": false,
+   "missable": true,
+   "roadmap": 3,
+   "steps": [
+    "Find all 18 meditation spots across Leonida.",
+    "Meditate at Lucia's balcony spot during Chapter 1 — community reporting says it disappears after that chapter.",
+    "Meditate at every remaining spot as you explore.",
+    "The trophy pops at the 18th spot."
+   ],
+   "guide": "Meditate at all 18 spots across Leonida. It is flagged missable because one spot — Lucia's balcony meditation in Chapter 1 — is reported to disappear after that chapter, and there is no mission replay to go back for it. Meditate there during Chapter 1, then sweep the other 17 spots as you explore the state; the count is tracked per spot, so tick each one off here as you go.",
+   "sources": [
+    {"name": "PlayStation trophy list — official name, description and grade (as listed by Exophase and PSNProfiles, 18 Nov 2026)"},
+    {"name": "Output Lag GTA 6 trophy list — 18 spots, Chapter 1 balcony missable", "url": "https://outputlag.com/guides/gta-6-trophy-list/"}
+   ]
   },
   {
    "id": 29,
    "name": "Fair Game",
    "description": "Hunt a unique animal for Bret.",
    "grade": "bronze",
-   "guide": "Hunt the unique animal for Bret."
+   "kind": "activities",
+   "hidden": false,
+   "missable": false,
+   "roadmap": 4,
+   "steps": [
+    "Meet Bret and take his hunting request.",
+    "Track the unique animal he names, following its trail and signs.",
+    "Take the shot cleanly and bring the hunt to its end.",
+    "The trophy pops when the hunt completes."
+   ],
+   "guide": "Hunt a unique animal for Bret — a guided hunt, not open-world poaching. Follow the trail and signs Bret points you to, take your time with the shot, and finish the hunt. It is a single self-contained strand, so it fits anywhere in the roadmap once Bret's request is open.",
+   "sources": [
+    {"name": "PlayStation trophy list — official name, description and grade (as listed by Exophase and PSNProfiles, 18 Nov 2026)"},
+    {"name": "GTA Vice City Hub achievements guide — full 55 list and unlock notes", "url": "https://www.gtavicecityhub.com/achievements"}
+   ]
   },
   {
    "id": 30,
    "name": "Don't Touch My Deck",
    "description": "Complete 3 Collectible Card sets.",
    "grade": "silver",
-   "guide": "Complete 3 collectible card sets (silver)."
-  },
+   "kind": "collectibles",
+   "hidden": false,
+   "missable": false,
+   "roadmap": 3,
+   "steps": [
+    "Pick up collectible cards as you explore shops, interiors and the open world.",
+    "Sort them into sets in the collection screen and see which cards are missing.",
+    "Trade or hunt down the missing cards for three full sets.",
+    "The trophy pops when the third set completes."
+   ],
+   "guide": "Complete 3 collectible card sets — the card-collecting silver. Cards are scattered across the world, so pick them up as you go rather than saving them for a dedicated sweep; the collection screen shows which cards each set still needs. Three full sets is the target, not every card in the game, so stop at three unless you are chasing 100%.",
+   "sources": [
+    {"name": "PlayStation trophy list — official name, description and grade (as listed by Exophase and PSNProfiles, 18 Nov 2026)"},
+    {"name": "Output Lag GTA 6 trophy list — counts and method notes", "url": "https://outputlag.com/guides/gta-6-trophy-list/"}
+   ]
+  }
+,
   {
    "id": 31,
    "name": "You WAiNKer!",
    "description": "WAiNK It at 100 locations.",
    "grade": "silver",
-   "guide": "WAiNK It at 100 locations (silver)."
+   "kind": "collectibles",
+   "hidden": false,
+   "missable": false,
+   "roadmap": 3,
+   "steps": [
+    "Look for WAiNK spots as you travel — 100 locations across Leonida.",
+    "Use the WAiNK interaction at each spot and watch the counter rise.",
+    "Sweep region by region so no area is left half-done.",
+    "The trophy pops at the 100th location."
+   ],
+   "guide": "WAiNK It at 100 locations — the biggest single count in the collectibles set, and a silver for it. The spots are spread across the whole state, so treat it as a travel companion to everything else: hit spots as you pass them during story, stranger and race travel, then sweep the leftovers region by region at the end. The in-game counter is the source of truth for how many remain.",
+   "sources": [
+    {"name": "PlayStation trophy list — official name, description and grade (as listed by Exophase and PSNProfiles, 18 Nov 2026)"},
+    {"name": "Output Lag GTA 6 trophy list — counts and method notes", "url": "https://outputlag.com/guides/gta-6-trophy-list/"}
+   ]
   },
   {
    "id": 32,
    "name": "One Last Thing",
    "description": "Complete 50 Challenges.",
    "grade": "bronze",
-   "guide": "Finish 50 challenges."
+   "kind": "activities",
+   "hidden": false,
+   "missable": false,
+   "roadmap": 4,
+   "steps": [
+    "Open the challenges list and pick the quick ones first.",
+    "Clear challenges across driving, shooting, exploration and activities.",
+    "Track the counter: 50 completed challenges is the target.",
+    "The trophy pops on the 50th completed challenge."
+   ],
+   "guide": "Complete 50 challenges — the general-purpose checklist trophy. Challenges span driving, shooting, exploration and activities, so most players clear a good chunk of the 50 without trying; the rest is mopping up the easiest remaining ones. Start with the quick wins and leave the long grinds for last.",
+   "sources": [
+    {"name": "PlayStation trophy list — official name, description and grade (as listed by Exophase and PSNProfiles, 18 Nov 2026)"},
+    {"name": "Output Lag GTA 6 trophy list — counts and method notes", "url": "https://outputlag.com/guides/gta-6-trophy-list/"}
+   ]
   },
   {
    "id": 33,
    "name": "Hot Together",
    "description": "Lose a 4 star Wanted Level with your partner and escape the heat.",
    "grade": "bronze",
-   "guide": "Lose a 4-star wanted level with your partner."
+   "kind": "activities",
+   "hidden": false,
+   "missable": false,
+   "roadmap": 4,
+   "steps": [
+    "Play with your partner beside you (Jason and Lucia together).",
+    "Raise your wanted level to 4 stars.",
+    "Break line of sight and stay out of the search area until the heat dies down.",
+    "The trophy pops when the wanted level clears."
+   ],
+   "guide": "Lose a 4-star wanted level with your partner and escape. You need Jason and Lucia together for this one, so do it during a story stretch or free-roam session when both are present. Raise the heat to 4 stars, then break line of sight, get out of the search area, and wait for the wanted level to clear — patience beats speed here.",
+   "sources": [
+    {"name": "PlayStation trophy list — official name, description and grade (as listed by Exophase and PSNProfiles, 18 Nov 2026)"},
+    {"name": "GTA Vice City Hub achievements guide — full 55 list and unlock notes", "url": "https://www.gtavicecityhub.com/achievements"}
+   ]
   },
   {
    "id": 34,
    "name": "Retail Therapy",
    "description": "Rob 3 shops back-to-back with your partner without losing your Wanted Level.",
    "grade": "bronze",
-   "guide": "Rob 3 shops in a row with your partner, keeping your wanted level."
+   "kind": "activities",
+   "hidden": false,
+   "missable": false,
+   "roadmap": 4,
+   "steps": [
+    "Play with your partner beside you.",
+    "Pick a street with three shops close together.",
+    "Rob the first shop, then the second, then the third — without the wanted level clearing between them.",
+    "The trophy pops after the third robbery."
+   ],
+   "guide": "Rob 3 shops back-to-back with your partner without losing your wanted level. Planning beats daring: pick three shops close together, move fast between them, and keep the wanted level alive the whole run — if it clears, the chain breaks and you start over. A quiet street with clustered shops is worth scouting first.",
+   "sources": [
+    {"name": "PlayStation trophy list — official name, description and grade (as listed by Exophase and PSNProfiles, 18 Nov 2026)"},
+    {"name": "GTA Vice City Hub achievements guide — full 55 list and unlock notes", "url": "https://www.gtavicecityhub.com/achievements"}
+   ]
   },
   {
    "id": 35,
    "name": "Whip It Good",
    "description": "Discover 100 vehicles.",
    "grade": "bronze",
-   "guide": "Discover 100 vehicles."
+   "kind": "collectibles",
+   "hidden": false,
+   "missable": false,
+   "roadmap": 3,
+   "steps": [
+    "Drive, ride or enter every new vehicle type you see.",
+    "Check the vehicle collection screen for which types are still missing.",
+    "Hunt the rare types in their home areas: boats on the water, bikes in the city, off-roaders in the backwoods.",
+    "The trophy pops at the 100th discovered vehicle."
+   ],
+   "guide": "Discover 100 vehicles — the vehicle-spotter trophy. Discovery counts when you enter or drive a new vehicle type, so variety is everything: sample boats, bikes, trucks, sports cars and off-roaders instead of sticking to one favourite. It builds up naturally across the story and the races, with a focused hunt for the rare types at the end.",
+   "sources": [
+    {"name": "PlayStation trophy list — official name, description and grade (as listed by Exophase and PSNProfiles, 18 Nov 2026)"},
+    {"name": "Output Lag GTA 6 trophy list — counts and method notes", "url": "https://outputlag.com/guides/gta-6-trophy-list/"}
+   ]
   },
   {
    "id": 36,
    "name": "Gunslinger",
    "description": "Take down 5 enemies in a single use of Combat Focus.",
    "grade": "bronze",
-   "guide": "Down 5 enemies in one Combat Focus."
+   "kind": "activities",
+   "hidden": false,
+   "missable": false,
+   "roadmap": 4,
+   "steps": [
+    "Find a fight with at least 5 enemies grouped together.",
+    "Trigger Combat Focus when they are clustered and in range.",
+    "Take down 5 of them before Combat Focus ends.",
+    "The trophy pops on the 5th takedown in that single use."
+   ],
+   "guide": "Take down 5 enemies in a single use of Combat Focus. The trick is the setup, not the shooting: pick a fight where enemies cluster, wait until five are in range together, then trigger Combat Focus and work through them. A failed attempt costs nothing — reposition and try again in the next firefight.",
+   "sources": [
+    {"name": "PlayStation trophy list — official name, description and grade (as listed by Exophase and PSNProfiles, 18 Nov 2026)"},
+    {"name": "GTA Vice City Hub achievements guide — full 55 list and unlock notes", "url": "https://www.gtavicecityhub.com/achievements"}
+   ]
   },
   {
    "id": 37,
    "name": "Catch Me If You Can",
    "description": "Make an unscheduled departure at VCIA.",
    "grade": "bronze",
-   "guide": "Leave VCIA in an unscheduled way."
+   "kind": "activities",
+   "hidden": true,
+   "missable": true,
+   "roadmap": 2,
+   "steps": [
+    "Make a manual save before heading to Vice City International Airport.",
+    "Get to VCIA and find a way onto the airfield.",
+    "Make your unscheduled departure — take a plane and get airborne.",
+    "The trophy pops once you are away."
+   ],
+   "guide": "Make an unscheduled departure at VCIA — the airport stunt trophy. It is hidden and flagged missable because it is a one-off moment at a specific place: get onto the airfield, take a plane, and get airborne without a ticket. Make a manual save first, since airport security makes the approach itself the challenge.",
+   "sources": [
+    {"name": "PlayStation trophy list — official name, description and grade (as listed by Exophase and PSNProfiles, 18 Nov 2026)"},
+    {"name": "GTA Vice City Hub achievements guide — full 55 list and unlock notes", "url": "https://www.gtavicecityhub.com/achievements"}
+   ]
   },
   {
    "id": 38,
    "name": "Challenging Tank",
    "description": "Kinda hot in these Rhinos.",
    "grade": "bronze",
-   "guide": "Deal with Rhinos (tanks)."
+   "kind": "activities",
+   "hidden": true,
+   "missable": false,
+   "roadmap": 4,
+   "steps": [
+    "Find a Rhino tank — expect it at a military site or during a high-heat moment.",
+    "Take it for a spin and survive the attention it draws.",
+    "The trophy pops once you have had your run in the Rhino."
+   ],
+   "guide": "The tank trophy: get behind the wheel of a Rhino and live to tell about it. The description is the whole hint — the Rhino is the prize — so the task is finding one and taking it for a spin while the heat it draws stays survivable. It is hidden because the tank itself is a surprise worth finding on your own.",
+   "sources": [
+    {"name": "PlayStation trophy list — official name, description and grade (as listed by Exophase and PSNProfiles, 18 Nov 2026)"},
+    {"name": "GTA Vice City Hub achievements guide — full 55 list and unlock notes", "url": "https://www.gtavicecityhub.com/achievements"}
+   ]
   },
   {
    "id": 39,
    "name": "Sneakthief",
    "description": "Rob a jewelry store without being detected.",
    "grade": "bronze",
-   "guide": "Rob a jewelry store without being seen."
+   "kind": "activities",
+   "hidden": true,
+   "missable": false,
+   "roadmap": 4,
+   "steps": [
+    "Scout a jewelry store and watch its staff and cameras.",
+    "Plan a quiet entry: no alarms, no witnesses raising the alarm.",
+    "Take the goods and leave without being detected.",
+    "The trophy pops on a clean getaway."
+   ],
+   "guide": "Rob a jewelry store without being detected — the stealth robbery trophy. This one rewards patience over speed: scout the store, learn the staff and camera patterns, and go in quiet. If you are spotted, the attempt fails, so back out and reset rather than fighting your way out.",
+   "sources": [
+    {"name": "PlayStation trophy list — official name, description and grade (as listed by Exophase and PSNProfiles, 18 Nov 2026)"},
+    {"name": "GTA Vice City Hub achievements guide — full 55 list and unlock notes", "url": "https://www.gtavicecityhub.com/achievements"}
+   ]
   },
   {
    "id": 40,
    "name": "Maximum Withdrawal",
    "description": "Rob 5 Bank Vaults and escape.",
    "grade": "silver",
-   "guide": "Rob 5 bank vaults and escape (silver)."
-  },
+   "kind": "activities",
+   "hidden": false,
+   "missable": false,
+   "roadmap": 4,
+   "steps": [
+    "Find the 5 bank vault locations across Leonida.",
+    "Rob each vault and escape cleanly after each one.",
+    "Count completed vaults here: the trophy pops on the 5th escape.",
+    "Plan each escape route before you go in."
+   ],
+   "guide": "Rob 5 bank vaults and escape — the big robbery silver. Each vault is a full job: get in, crack it, and get out clean, five times over. Plan the escape before the entry, and treat each vault as its own mission rather than rushing the set; the count only moves on a successful escape.",
+   "sources": [
+    {"name": "PlayStation trophy list — official name, description and grade (as listed by Exophase and PSNProfiles, 18 Nov 2026)"},
+    {"name": "Output Lag GTA 6 trophy list — counts and method notes", "url": "https://outputlag.com/guides/gta-6-trophy-list/"}
+   ]
+  }
+,
   {
    "id": 41,
    "name": "A Classic Blitz Play",
    "description": "Rob an Armored Truck and escape.",
    "grade": "bronze",
-   "guide": "Rob an armored truck and escape."
+   "kind": "activities",
+   "hidden": false,
+   "missable": false,
+   "roadmap": 4,
+   "steps": [
+    "Find an armored truck on its route.",
+    "Stop it and crack it open.",
+    "Take the cash and escape before the response arrives.",
+    "The trophy pops on the escape."
+   ],
+   "guide": "Rob an armored truck and escape — the classic GTA side job, and a single clean run is all it takes. Pick a quiet stretch of road for the stop, work fast once the truck is open, and have your escape vehicle ready before you start: the response arrives quickly, and the trophy only counts if you get away.",
+   "sources": [
+    {"name": "PlayStation trophy list — official name, description and grade (as listed by Exophase and PSNProfiles, 18 Nov 2026)"},
+    {"name": "GTA Vice City Hub achievements guide — full 55 list and unlock notes", "url": "https://www.gtavicecityhub.com/achievements"}
+   ]
   },
   {
    "id": 42,
    "name": "The Goodtime State",
    "description": "Explore all of Leonida.",
    "grade": "bronze",
-   "guide": "Explore all 52 areas of Leonida."
+   "kind": "collectibles",
+   "hidden": false,
+   "missable": false,
+   "roadmap": 3,
+   "steps": [
+    "Drive, ride, fly and sail through every region of Leonida.",
+    "Watch the map fill in: uncovered areas are the ones still missing.",
+    "Visit the far corners — Mount Kalaga, Lake Leonida, Watson Bay and the Keys.",
+    "The trophy pops when the map is fully explored."
+   ],
+   "guide": "Explore all of Leonida — the map-completion trophy. It is a travel trophy, not a checklist: cover every region until the map is filled in, including the far corners like Mount Kalaga, Lake Leonida, Watson Bay and the Keys that the story never sends you to. It pairs with the WAiNK spots, meditation spots and vehicle discovery, so sweep them together.",
+   "sources": [
+    {"name": "PlayStation trophy list — official name, description and grade (as listed by Exophase and PSNProfiles, 18 Nov 2026)"},
+    {"name": "Output Lag GTA 6 trophy list — counts and method notes", "url": "https://outputlag.com/guides/gta-6-trophy-list/"}
+   ]
   },
   {
    "id": 43,
    "name": "Pest Control",
    "description": "Rob an Illegal Operation belonging to each gang.",
    "grade": "bronze",
-   "guide": "Rob one illegal operation of each of the 9 gangs."
+   "kind": "activities",
+   "hidden": false,
+   "missable": false,
+   "roadmap": 4,
+   "steps": [
+    "Learn which gangs run illegal operations and where each one operates.",
+    "Rob one operation for each gang — one per gang counts.",
+    "Escape after each robbery.",
+    "The trophy pops when every gang's operation has been hit."
+   ],
+   "guide": "Rob an illegal operation belonging to each gang — one hit per gang, covering the whole set. Learn the gangs and their territories first, then work through them one at a time with a clean escape after each. The trophy is about coverage, not volume, so tick each gang off here as you go.",
+   "sources": [
+    {"name": "PlayStation trophy list — official name, description and grade (as listed by Exophase and PSNProfiles, 18 Nov 2026)"},
+    {"name": "GTA Vice City Hub achievements guide — full 55 list and unlock notes", "url": "https://www.gtavicecityhub.com/achievements"}
+   ]
   },
   {
    "id": 44,
    "name": "In The Beginning…",
    "description": "Enjoy a cocktail with a view on Ocean Beach.",
    "grade": "bronze",
-   "guide": "Have a cocktail with a view on Ocean Beach."
+   "kind": "activities",
+   "hidden": true,
+   "missable": true,
+   "roadmap": 2,
+   "steps": [
+    "Make a manual save before heading to Ocean Beach.",
+    "Go to the beachfront spot on Ocean Beach with a view.",
+    "Order and enjoy a cocktail there.",
+    "The trophy pops as the moment plays out."
+   ],
+   "guide": "Enjoy a cocktail with a view on Ocean Beach — a quiet story moment, not a grind. It is hidden and flagged missable because it is tied to a single scene at a specific place: go to Ocean Beach, find the beachfront spot, and take the cocktail. Make a manual save first so a missed scene does not cost you a whole playthrough.",
+   "sources": [
+    {"name": "PlayStation trophy list — official name, description and grade (as listed by Exophase and PSNProfiles, 18 Nov 2026)"},
+    {"name": "Output Lag GTA 6 trophy list — five hidden trophies with no confirmed trigger yet", "url": "https://outputlag.com/guides/gta-6-trophy-list/"}
+   ]
   },
   {
    "id": 45,
    "name": "Capital Offense",
    "description": "Smash your way out of a vehicle showroom in classic style.",
    "grade": "bronze",
-   "guide": "Smash out of a vehicle showroom in style."
+   "kind": "activities",
+   "hidden": true,
+   "missable": true,
+   "roadmap": 2,
+   "steps": [
+    "Make a manual save before entering a vehicle showroom.",
+    "Get into a vehicle inside the showroom.",
+    "Smash your way out through the glass, in classic style.",
+    "The trophy pops on the exit."
+   ],
+   "guide": "Smash your way out of a vehicle showroom in classic style — the homage stunt. It is hidden and flagged missable because it is a one-off moment at a specific place: get into a showroom vehicle and drive it straight out through the glass. Make a manual save first, pick your vehicle, and commit to the exit.",
+   "sources": [
+    {"name": "PlayStation trophy list — official name, description and grade (as listed by Exophase and PSNProfiles, 18 Nov 2026)"},
+    {"name": "Output Lag GTA 6 trophy list — five hidden trophies with no confirmed trigger yet", "url": "https://outputlag.com/guides/gta-6-trophy-list/"}
+   ]
   },
   {
    "id": 46,
    "name": "Let’s Go Bowling",
    "description": "Follow-through at the Kolt & Associates' bowling alley.",
    "grade": "bronze",
-   "guide": "Play bowling at the Kolt & Associates alley."
+   "kind": "activities",
+   "hidden": true,
+   "missable": true,
+   "roadmap": 2,
+   "steps": [
+    "Make a manual save before visiting the bowling alley.",
+    "Go to the Kolt & Associates bowling alley.",
+    "Bowl, and follow through on the shot as the moment asks.",
+    "The trophy pops when the follow-through lands."
+   ],
+   "guide": "Follow-through at the Kolt & Associates bowling alley — a single-scene trophy at a named place. It is hidden and flagged missable because it is tied to one visit: go to the alley, bowl, and follow through on the shot. Make a manual save first so the moment is not lost to a wrong turn earlier in the scene.",
+   "sources": [
+    {"name": "PlayStation trophy list — official name, description and grade (as listed by Exophase and PSNProfiles, 18 Nov 2026)"},
+    {"name": "GTA Vice City Hub achievements guide — full 55 list and unlock notes", "url": "https://www.gtavicecityhub.com/achievements"}
+   ]
   },
   {
    "id": 47,
    "name": "Personal Best",
    "description": "A partnership with mass appeal.",
    "grade": "bronze",
-   "guide": "A partnership moment with mass appeal."
+   "kind": "activities",
+   "hidden": true,
+   "missable": true,
+   "roadmap": 2,
+   "steps": [
+    "Make a manual save before the partnership scene.",
+    "Play through the scene where the partnership takes shape.",
+    "Follow the scene's beats to its end.",
+    "The trophy pops when the moment lands."
+   ],
+   "guide": "A partnership with mass appeal — a single story-beat trophy whose description gives almost nothing away, which is exactly why it is hidden. It is flagged missable because it is tied to one scene: make a manual save before the partnership moment in the story, play the scene through, and the trophy pops as it lands.",
+   "sources": [
+    {"name": "PlayStation trophy list — official name, description and grade (as listed by Exophase and PSNProfiles, 18 Nov 2026)"},
+    {"name": "Planet GTA 6 trophy guide — story order and chapter notes", "url": "https://www.planetgta6.com/en/gta-6-trophies/"}
+   ]
   },
   {
    "id": 48,
    "name": "Actions Speak Louder",
    "description": "Choices made (for better or worse).",
    "grade": "bronze",
-   "guide": "Make choices (PSN tracks a count to 500)."
+   "kind": "activities",
+   "hidden": true,
+   "missable": true,
+   "roadmap": 2,
+   "steps": [
+    "Make a manual save before the story choice.",
+    "Make the choice and play out what follows.",
+    "The trophy pops when the choice lands.",
+    "Reload the manual save if you want to see the other outcome."
+   ],
+   "guide": "Choices made, for better or worse — the story-choice trophy. It is hidden and flagged missable because it is tied to a single decision point: make a manual save before the choice, choose, and play out what follows. With no mission replay reported, the save is the only way back to the other outcome.",
+   "sources": [
+    {"name": "PlayStation trophy list — official name, description and grade (as listed by Exophase and PSNProfiles, 18 Nov 2026)"},
+    {"name": "Output Lag GTA 6 trophy list — no mission replay, manual-save advice", "url": "https://outputlag.com/guides/gta-6-trophy-list/"}
+   ]
   },
   {
    "id": 49,
    "name": "Bad Luck, I Guess",
    "description": "Second time's the charm.",
    "grade": "bronze",
-   "guide": "Succeed on a second try."
+   "kind": "activities",
+   "hidden": true,
+   "missable": true,
+   "roadmap": 2,
+   "steps": [
+    "Make a manual save before the attempt.",
+    "Try the thing once — the first attempt is part of the trophy.",
+    "Try it a second time: the trophy pops on the second attempt.",
+    "If it does not pop, reload the manual save and repeat the pair."
+   ],
+   "guide": "Second time's the charm — a trophy that wants a retry. It is hidden and flagged missable because its trigger is a specific second attempt at a specific moment: make a manual save first, attempt it once, then attempt it a second time. If the pair does not pop it, reload the save and run the pair again.",
+   "sources": [
+    {"name": "PlayStation trophy list — official name, description and grade (as listed by Exophase and PSNProfiles, 18 Nov 2026)"},
+    {"name": "Output Lag GTA 6 trophy list — five hidden trophies with no confirmed trigger yet", "url": "https://outputlag.com/guides/gta-6-trophy-list/"}
+   ]
   },
   {
    "id": 50,
    "name": "The Truth Is Out There",
    "description": "What the hell just happened?",
    "grade": "bronze",
-   "guide": "Witness something strange."
-  },
+   "kind": "activities",
+   "hidden": true,
+   "missable": true,
+   "roadmap": 2,
+   "steps": [
+    "Make a manual save before exploring the strange spot.",
+    "Follow the odd signs until the event triggers.",
+    "Let the scene play out to its end.",
+    "The trophy pops when the moment lands."
+   ],
+   "guide": "What the hell just happened? — the weird-event trophy, hidden because the event itself is the surprise. It is flagged missable because it is tied to a single strange moment: make a manual save first, follow the odd signs, and let the scene play out. The description is the only hint the list gives, and that is deliberate.",
+   "sources": [
+    {"name": "PlayStation trophy list — official name, description and grade (as listed by Exophase and PSNProfiles, 18 Nov 2026)"},
+    {"name": "Output Lag GTA 6 trophy list — five hidden trophies with no confirmed trigger yet", "url": "https://outputlag.com/guides/gta-6-trophy-list/"}
+   ]
+  }
+,
   {
    "id": 51,
    "name": "Ten Pin",
    "description": "Bowl 'em over with a melee drive-by.",
    "grade": "bronze",
-   "guide": "Knock someone down with a melee drive-by."
+   "kind": "activities",
+   "hidden": true,
+   "missable": false,
+   "roadmap": 4,
+   "steps": [
+    "Find a group of enemies standing close together.",
+    "Drive past them at speed with a melee weapon ready.",
+    "Strike from the moving vehicle and bowl them over.",
+    "The trophy pops on the drive-by hit."
+   ],
+   "guide": "Bowl them over with a melee drive-by — a driving-combat stunt that mixes the bowling alley joke with a moving hit. Find enemies standing close together, drive past at speed, and strike from the vehicle. It is repeatable in the open world, so set it up on your own terms rather than forcing it mid-mission.",
+   "sources": [
+    {"name": "PlayStation trophy list — official name, description and grade (as listed by Exophase and PSNProfiles, 18 Nov 2026)"},
+    {"name": "Output Lag GTA 6 trophy list — five hidden trophies with no confirmed trigger yet", "url": "https://outputlag.com/guides/gta-6-trophy-list/"}
+   ]
   },
   {
    "id": 52,
    "name": "Dime on the Dollar",
    "description": "Earn $250,000 laundering Marked Bills through your contacts.",
    "grade": "bronze",
-   "guide": "Launder $250,000 of marked bills."
+   "kind": "activities",
+   "hidden": false,
+   "missable": false,
+   "roadmap": 4,
+   "steps": [
+    "Collect Marked Bills from robberies and jobs.",
+    "Take them to your contacts to launder them into clean cash.",
+    "Track the laundered total: $250,000 is the target.",
+    "The trophy pops when the total is reached."
+   ],
+   "guide": "Earn $250,000 laundering Marked Bills through your contacts. Marked Bills come from robberies and jobs, and your contacts turn them into clean cash — the laundered total is what counts, not the cash in hand. It builds up across the whole robbery cleanup, so keep laundering as you go and the $250,000 arrives on its own.",
+   "sources": [
+    {"name": "PlayStation trophy list — official name, description and grade (as listed by Exophase and PSNProfiles, 18 Nov 2026)"},
+    {"name": "GTA Vice City Hub achievements guide — full 55 list and unlock notes", "url": "https://www.gtavicecityhub.com/achievements"}
+   ]
   },
   {
    "id": 53,
    "name": "Treat Yo Self",
    "description": "Spend $100,000 across all shops.",
    "grade": "bronze",
-   "guide": "Spend $100,000 in shops."
+   "kind": "activities",
+   "hidden": false,
+   "missable": false,
+   "roadmap": 4,
+   "steps": [
+    "Spend money across shops: clothes, weapons, vehicles, food and more.",
+    "Track the spent total — it counts across all shops, not one.",
+    "Buy the gear you actually want first; top up with big-ticket items at the end.",
+    "The trophy pops at $100,000 spent."
+   ],
+   "guide": "Spend $100,000 across all shops. The total is cumulative and counts every shop, so normal play — clothes, weapons, vehicle mods, food — covers most of it; the laundered cash from the Marked Bills trophy is the natural funding source. Save the big-ticket purchases for the end if you want the spending to count for something useful.",
+   "sources": [
+    {"name": "PlayStation trophy list — official name, description and grade (as listed by Exophase and PSNProfiles, 18 Nov 2026)"},
+    {"name": "GTA Vice City Hub achievements guide — full 55 list and unlock notes", "url": "https://www.gtavicecityhub.com/achievements"}
+   ]
   },
   {
    "id": 54,
    "name": "Little Boxes",
    "description": "Purchase all garage properties.",
    "grade": "bronze",
-   "guide": "Buy all 8 garage properties."
+   "kind": "collectibles",
+   "hidden": false,
+   "missable": false,
+   "roadmap": 3,
+   "steps": [
+    "Find every garage property for sale across Leonida.",
+    "Save up for each one — garages are a big spend, so fund them from laundered cash.",
+    "Buy them one by one and tick each off here.",
+    "The trophy pops when the last garage is bought."
+   ],
+   "guide": "Purchase all garage properties. Garages are the property-collecting trophy: find each one for sale, save for it, and buy it. They are also useful — storage for the vehicles you discover for the 100-vehicle trophy — so buy them as you can afford them during the story rather than leaving the whole bill for the end.",
+   "sources": [
+    {"name": "PlayStation trophy list — official name, description and grade (as listed by Exophase and PSNProfiles, 18 Nov 2026)"},
+    {"name": "Output Lag GTA 6 trophy list — counts and method notes", "url": "https://outputlag.com/guides/gta-6-trophy-list/"}
+   ]
   },
   {
    "id": 55,
    "name": "On the Spot",
    "description": "Register 10 vehicles to the Scooter Bros app.",
    "grade": "bronze",
-   "guide": "Register 10 vehicles in the Scooter Bros app."
+   "kind": "collectibles",
+   "hidden": false,
+   "missable": false,
+   "roadmap": 3,
+   "steps": [
+    "Open the Scooter Bros app on the in-game phone.",
+    "Register a vehicle to the app — repeat for 10 different vehicles.",
+    "Use vehicles you have already discovered so the count climbs twice.",
+    "The trophy pops on the 10th registration."
+   ],
+   "guide": "Register 10 vehicles to the Scooter Bros app. It is the phone-app companion to the vehicle discovery trophy: open the app, register a vehicle, and repeat for ten different vehicles. Use vehicles you have already discovered so each registration also feeds the 100-vehicle count.",
+   "sources": [
+    {"name": "PlayStation trophy list — official name, description and grade (as listed by Exophase and PSNProfiles, 18 Nov 2026)"},
+    {"name": "GTA Vice City Hub achievements guide — full 55 list and unlock notes", "url": "https://www.gtavicecityhub.com/achievements"}
+   ]
   }
  ]
 }

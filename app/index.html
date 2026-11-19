@@ -3,23 +3,96 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>GTA VI trophy checklist</title>
+<title>Vice City Platinum — GTA 6 Trophy Guide &amp; Tracker</title>
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<header>
-  <h1>GTA VI trophy checklist</h1>
-  <p id="progress">0 of 55 earned</p>
+<header class="site-header">
+  <p class="eyebrow">Grand Theft Auto VI · PlayStation 5 · 55 trophies</p>
+  <h1>Vice City Platinum</h1>
+  <p class="tagline">A complete offline guide and tracker for every GTA 6 trophy: checklists saved in your browser, filters, a spoiler setting, a platinum roadmap, missable flags, and a step-by-step guide with sources for every trophy.</p>
+  <div class="progress-wrap" aria-label="Platinum progress">
+    <div class="progress-line"><strong id="progress-text">0 of 55 earned</strong><span id="progress-pct">0%</span></div>
+    <div class="progress-bar"><div id="progress-fill"></div></div>
+    <p class="grade-counts" id="grade-counts">Platinum 0/1 · Gold 0/2 · Silver 0/6 · Bronze 0/46</p>
+  </div>
+  <nav class="jump-links">
+    <a href="#checklist">Checklist</a>
+    <a href="#roadmap">Platinum roadmap</a>
+    <a href="#missables">Missable warnings</a>
+    <a href="#sources">Sources</a>
+  </nav>
 </header>
-<div class="controls">
-  <label>Grade <select id="grade"><option value="all">All</option><option value="platinum">Platinum</option><option value="gold">Gold</option><option value="silver">Silver</option><option value="bronze">Bronze</option></select></label>
-  <button id="export" type="button">Export progress</button>
-  <label class="import">Import progress <input id="import" type="file" accept="application/json"></label>
-</div>
-<table>
-  <thead><tr><th>Earned</th><th>Trophy</th><th>Grade</th><th>How to get it</th></tr></thead>
-  <tbody id="rows"></tbody>
-</table>
+
+<main>
+  <section id="checklist" aria-label="Trophy checklist">
+    <h2>Trophy checklist</h2>
+    <div class="controls">
+      <label class="search-label">Search <input id="search" type="search" placeholder="Trophy name or description…" autocomplete="off"></label>
+      <div class="kind-chips" role="group" aria-label="Filter by kind">
+        <button type="button" class="chip is-active" data-kind="all">All 55</button>
+        <button type="button" class="chip" data-kind="story">Story</button>
+        <button type="button" class="chip" data-kind="missable">Missable</button>
+        <button type="button" class="chip" data-kind="collectibles">Collectibles</button>
+        <button type="button" class="chip" data-kind="activities">Activities</button>
+        <button type="button" class="chip" data-kind="online">Online</button>
+      </div>
+      <label class="grade-label">Grade
+        <select id="grade">
+          <option value="all">All grades</option>
+          <option value="platinum">Platinum</option>
+          <option value="gold">Gold</option>
+          <option value="silver">Silver</option>
+          <option value="bronze">Bronze</option>
+        </select>
+      </label>
+      <label class="toggle"><input id="spoiler-toggle" type="checkbox"> Spoiler-free: hide story trophy names</label>
+      <label class="toggle"><input id="earned-only" type="checkbox"> Earned only</label>
+      <div class="file-actions">
+        <button id="export" type="button">Export progress</button>
+        <label class="import">Import progress <input id="import" type="file" accept="application/json"></label>
+        <button id="reset" type="button">Reset</button>
+      </div>
+    </div>
+    <p id="filter-note" class="filter-note"></p>
+    <div id="trophy-list" class="trophy-list"></div>
+    <p id="empty-note" class="empty-note" hidden>No trophies match these filters. Try clearing the search or picking another kind.</p>
+  </section>
+
+  <section id="guide-panel" class="guide-panel" aria-label="Trophy guide" hidden>
+    <h2 id="guide-title">Trophy guide</h2>
+    <div id="guide-body"></div>
+  </section>
+
+  <section id="roadmap" class="roadmap" aria-label="Platinum roadmap">
+    <h2>Platinum roadmap</h2>
+    <p class="section-note">Four stages, in order. Story first, missables as you go, collectibles next, grinds last. Roughly 200 hours for the full list, per community estimates — long, not hard. No online trophies, no difficulty trophies, no mission medals.</p>
+    <div id="roadmap-stages" class="roadmap-stages"></div>
+  </section>
+
+  <section id="missables" class="missables" aria-label="Missable trophies">
+    <h2>Missable warnings — 10 trophies</h2>
+    <p class="section-note">Community reporting says there is no mission replay and no New Game Plus. Keep a manual save at a separate slot before every trophy flagged <span class="flag-missable">MISSABLE</span>, and one at the start of every chapter. Story chapter and mission trophies are unmissable — they pop for finishing — but the ten below are tied to single moments.</p>
+    <ul id="missable-list" class="missable-list"></ul>
+  </section>
+
+  <section id="sources" class="sources" aria-label="Sources">
+    <h2>Sources — where every fact comes from</h2>
+    <p>Official trophy names, descriptions and grades are quoted as PlayStation publishes them, as listed by Exophase and PSNProfiles on 18 Nov 2026. Every guide on this page is written in its own words for this entry — never copied from another guide — and cites its sources beside it. No Rockstar logo, artwork, box art or game screenshot is used anywhere on this page.</p>
+    <ul>
+      <li><strong>PlayStation trophy list</strong> — official names, descriptions and grades (as listed by Exophase and PSNProfiles, 18 Nov 2026).</li>
+      <li><a href="https://www.playstation.com/en-us/games/grand-theft-auto-vi/">PlayStation — Grand Theft Auto VI official game page</a> (PS5, single-player, released 19 Nov 2026).</li>
+      <li><a href="https://www.planetgta6.com/en/gta-6-trophies/">Planet GTA 6 trophy guide</a> — story order, chapter notes and the 28 hidden trophies.</li>
+      <li><a href="https://outputlag.com/guides/gta-6-trophy-list/">Output Lag GTA 6 trophy list</a> — counts, method notes, no mission replay, and the Chapter 1 meditation spot.</li>
+      <li><a href="https://www.gtavicecityhub.com/achievements">GTA Vice City Hub achievements guide</a> — the full 55 list and unlock notes.</li>
+    </ul>
+    <p class="fine-print">Counts: 1 platinum, 2 gold, 6 silver, 46 bronze; 28 hidden on PlayStation until earned; 0 online trophies. Missable flags and the roadmap are built from the official descriptions plus the community reporting cited above, and may change as the community verifies each trigger. This guide works fully offline — no account, no upload, no network requests. Progress is stored only in this browser's localStorage.</p>
+  </section>
+</main>
+
+<footer>
+  <p>Vice City Platinum — an unofficial fan-made guide. Grand Theft Auto and Rockstar Games are trademarks of Take-Two Interactive. Not affiliated with Rockstar Games or PlayStation.</p>
+</footer>
 <script type="module" src="app.js"></script>
 </body>
 </html>

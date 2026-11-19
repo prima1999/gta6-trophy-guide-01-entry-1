@@ -13,6 +13,9 @@
 // Serve it locally with `node serve.ts`, then open http://localhost:8080.
 // Outside the grader's container, MAKEFUN_OUTPUT_DIR stands in for /output:
 //   mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
+// This entry's app is Vice City Platinum: a full guide and tracker for all 55
+// GTA 6 trophies, with a four-stage platinum roadmap, missable flags, a spoiler
+// setting, kind and grade filters, localStorage progress and export/import.
 
 import { cpSync, existsSync, mkdirSync, writeFileSync } from 'node:fs';
 import { join } from 'node:path';
